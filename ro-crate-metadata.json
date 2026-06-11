@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-05-28T16:33:59.074036",
+            "datePublished": "2026-06-11T10:45:10.079175",
             "hasPart": [
                 {
                     "@id": "histological-staining-area-quantification.ga"
@@ -72,7 +72,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/histological-staining-area-quantification",
-            "version": "0.1.1"
+            "version": "0.1.2"
         },
         {
             "@id": "#galaxy",
